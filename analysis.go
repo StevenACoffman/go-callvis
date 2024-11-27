@@ -18,7 +18,6 @@ import (
 	"golang.org/x/tools/go/callgraph/static"
 
 	"golang.org/x/tools/go/packages"
-
 	"golang.org/x/tools/go/ssa"
 	"golang.org/x/tools/go/ssa/ssautil"
 )
